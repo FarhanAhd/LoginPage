@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="EnterName">Enter Name</string>
+    <string name="EnterPassword">Enter Password</string>
+    <string name="EnterAge">Enter Age</string>
+
+</resources>
